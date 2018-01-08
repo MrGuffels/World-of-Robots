@@ -1,0 +1,11 @@
+{
+    "name": "WorldofRobots",
+    "version": "0.2.1",
+    "title": "World of Robots",
+    "author": "MrGuffels",
+    "contact": "",
+    "homepage": "",
+    "factorio_version": "0.15",
+    "dependencies": ["base >= 0.15"],
+    "description": "This mod removes all belts and moves robots and all their chests to the beginning of the tech tree."
+}
