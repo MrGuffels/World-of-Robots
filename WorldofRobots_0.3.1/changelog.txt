@@ -1,0 +1,13 @@
+----------------------------------------------------------------------------------------------
+Version: 0.3.1
+Changes: Implemented Roboport Big Poles (Adds a Big Power Pole to the Roboport)
+		 Thanks to DellAquila 
+
+----------------------------------------------------------------------------------------------
+Version: 0.3.0
+Changes: Added a Changelog :D
+	 Reduced Power Consumption of Robots by 1/10th (5kJ to .5kJ)
+		 Yes it's very broken. I will balance it eventually.
+		 (Or you could change it yourself in prototypes->entities)
+	 Implemented Logistic Mine with significant changes
+		 Thanks to DellAquila
